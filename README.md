@@ -47,5 +47,5 @@ This project is being built across two sprints:
 Sprint 1 (Weeks 1–7): Data foundation — clean and import HUD/Census data into PostgreSQL, build the core Flask API, implement the affordability calculation, and cover it with unit tests.
 Sprint 2 (Weeks 8–14): Frontend, visualization, zip code comparison feature, error handling, polish, and deployment.
 Full milestone breakdown and progress tracking is on the Canvas Individual Project page (replace with your actual Canvas link).
-Links
-Canvas Individual Project page: (add link here)
+# Links
+Canvas Individual Project page: 
